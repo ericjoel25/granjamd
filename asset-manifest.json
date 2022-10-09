@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ericjoel25.github.io/granjamd/static/css/main.471075a8.css",
+    "main.js": "/ericjoel25.github.io/granjamd/static/js/main.590512c3.js",
+    "static/js/787.65ab4c5d.chunk.js": "/ericjoel25.github.io/granjamd/static/js/787.65ab4c5d.chunk.js",
+    "static/media/5.png": "/ericjoel25.github.io/granjamd/static/media/5.ffb714254a276651baae.png",
+    "static/media/granja.png": "/ericjoel25.github.io/granjamd/static/media/granja.85379c52f1fa2f301b0d.png",
+    "static/media/cuatro.png": "/ericjoel25.github.io/granjamd/static/media/cuatro.a12c019e1d514cea0cb6.png",
+    "static/media/dos.png": "/ericjoel25.github.io/granjamd/static/media/dos.c5116d3d215030f2b13c.png",
+    "static/media/granja.webp": "/ericjoel25.github.io/granjamd/static/media/granja.25d9b7cff679075fbc96.webp",
+    "static/media/tres.png": "/ericjoel25.github.io/granjamd/static/media/tres.acc0b72cb00b04e8b77f.png",
+    "static/media/uno.png": "/ericjoel25.github.io/granjamd/static/media/uno.cc0501efadb6f3320098.png",
+    "static/media/fondo7.webp": "/ericjoel25.github.io/granjamd/static/media/fondo7.7892d632f92de0b23ed9.webp",
+    "static/media/actualizar.png": "/ericjoel25.github.io/granjamd/static/media/actualizar.615cf392253d34bbcc21.png",
+    "index.html": "/ericjoel25.github.io/granjamd/index.html",
+    "main.471075a8.css.map": "/ericjoel25.github.io/granjamd/static/css/main.471075a8.css.map",
+    "main.590512c3.js.map": "/ericjoel25.github.io/granjamd/static/js/main.590512c3.js.map",
+    "787.65ab4c5d.chunk.js.map": "/ericjoel25.github.io/granjamd/static/js/787.65ab4c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.471075a8.css",
+    "static/js/main.590512c3.js"
+  ]
+}
